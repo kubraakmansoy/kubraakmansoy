@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kübra Almansoy
+# 👋 Hi, I'm Kübra Akmansoy
 
 🎓 I'm a Computer Engineering student with a strong interest in software development, clean code, and building impactful digital solutions.
 
